@@ -2,3 +2,13 @@
 <b> </b> for bold
 <hr>  for underline
 <pre> </pre> for likhar type alada
+--------------------------------------------
+HTML Attribute
+--------------------------------------------
+<p style="font-size:50px">
+<p style="font-size:50px;color:red;">
+<image alt="logo"></image>
+<image src="issable.png"alt="logo"></image>
+<image src="issable.png"alt="logo" width="300" height="300"></image>
+
+
