@@ -10,7 +10,7 @@ HTML Attribute
 <image alt="logo"></image>
 <image src="issable.png"alt="logo"></image>
 <image src="issable.png"alt="logo" width="300" height="300"></image>
-<a href="https://www.youtube.com/">check video</a>
+<a href="https://www.youtube.com/">check video</a>  ---> hyperlink
 <body style="background: black;">
 <p style="font-size:50px;color:red;font-family:cursive;text-align: right;">
 
