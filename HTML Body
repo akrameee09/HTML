@@ -22,3 +22,27 @@ HTML Attribute
 <ins>populated with a population </ins> underline
 (a+b)<sup>2</sup> --->for square
 <!--comments-->
+
+----------------------CSS with html------------------------
+<head>
+ <link rel="stylesheet" href="style.css">
+</head>
+
+<p style="background-color: blue;color: azure;padding: 20px;"> Dhaka, the capital and largest city, is the nation's
+   political, financial, and cultural centre. Chittagong is the second-largest city and the
+   busiest port. The official language is Bengali, with Bangladeshi English also used in 
+   government.
+
+       (a+b)<sup>2</sup>
+</p>
+==================
+style.css
+----------
+
+body {
+  background-color: purple;
+  color: turquoise;
+}
+
+==============
+---------------------------------------------------------------------
