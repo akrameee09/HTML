@@ -12,5 +12,11 @@ HTML Attribute
 <image src="issable.png"alt="logo" width="300" height="300"></image>
 <a href="https://www.youtube.com/">check video</a>
 <body style="background: black;">
+<p style="font-size:50px;color:red;font-family:cursive;text-align: right;">
 
+<p><strong>ChatGPT is a chatbot and </strong> -----> as like bold but important for searchEngine
 
+<i>Myanmar to the southeast.</i> ---> Italic
+<mark> It is separated from Bhutan and Nepal by the Siliguri Corridor</mark> --> to mark something
+<del>mountainous </del> ---> kete jawa
+<ins>populated with a population </ins> underline
